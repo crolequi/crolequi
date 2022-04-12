@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <div align="center" dir="auto">
 <img align="middle" src="https://github-readme-stats.vercel.app/api?username=ki-ljl&show_icons=true&hide_title=false&include_all_commits=true&count_private=true&theme=merko" height="auto" width="50%"/>
-<img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ki-ljl&hide_title=false&theme=merko&&layout=compact" height="auto" width="45%"/>
+<img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ki-ljl&hide_title=false&theme=merko&&layout=compact" height="auto" width="50%"/>
 </div>
 
 <br>
