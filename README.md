@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 ## Hi there 👋
 
+[![](https://img.shields.io/badge/CSDN-@智慧的旋风-red.svg?style=plastic)](https://blog.csdn.net/weixin_41650348/)     ![GitHub User's stars](https://img.shields.io/github/stars/ytchx1999?affiliations=OWNER&style=social) ![GitHub followers](https://img.shields.io/github/followers/ytchx1999?style=social)
+
 - 🔭 I have graduated from NCEPU.
 - 🔭 Now, I'm a M.S. student at *BUAA, Beijing*.
 - 🌱 I taught myself Machine Learning during my undergraduate period. My undergraduate graduation design was about Safe Semi-supervised Learning.
