@@ -25,11 +25,10 @@ Here are some ideas to get you started:
 ## GitHub Stats
 
 <div align="center" dir="auto">
-<img align="middle" src="https://github-readme-stats.vercel.app/api?username=segeral&show_icons=true&hide_title=false&include_all_commits=true&count_private=true&theme=merko" height="60%" width="45%"/>
-<img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=segeral&hide_title=false&theme=merko&&layout=compact" height="60%" width="45%"/>
+<img align="middle" src="https://github-readme-stats.vercel.app/api?username=segeral&show_icons=true&hide_title=false&include_all_commits=true&count_private=true&theme=merko" height="auto" width="45%"/>
+<img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=segeral&hide_title=false&theme=merko&&layout=compact" height="auto" width="45%"/>
 </div>
 
-<br>
 
 ## My Skill Sets
 
