@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🔭 I have graduated from NCEPU.
+- 🔭 Now, I'm a M.S. student at *BUAA, Beijing*.
+- 🌱 I taught myself Machine Learning during my undergraduate period. My undergraduate graduation design was about Safe Semi-supervised Learning.
+- 📫 How to reach me: 
