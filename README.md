@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🔭 I have graduated from NCEPU.
 - 🔭 Now, I'm a M.S. student at *BUAA, Beijing*.
-- 🌱 I'm interested in Natural Language Processing, Recommender System, etc.
+- 🌱 I'm interested in Natural Language Processing, Recommender Systems, etc.
 - 📫 How to reach me: [segeral@163.com](#).
 
 ## GitHub Stats
