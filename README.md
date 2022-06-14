@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Hi there 👋
 
-[![](https://img.shields.io/badge/CSDN-@yourname-red.svg?style=plastic)](https://blog.csdn.net/)     ![GitHub User's stars](https://img.shields.io/github/stars/segeral?affiliations=OWNER&style=social) ![GitHub followers](https://img.shields.io/github/followers/segeral?style=social)
+[![](https://img.shields.io/badge/CSDN-raelum-red.svg?style=plastic)]([https://blog.csdn.net/](https://blog.csdn.net/raelum?type=blog))     ![GitHub User's stars](https://img.shields.io/github/stars/segeral?affiliations=OWNER&style=social) ![GitHub followers](https://img.shields.io/github/followers/segeral?style=social)
 
 - 🔭 I have graduated from NCEPU.
 - 🔭 Now, I'm a M.S. student at *BUAA, Beijing*.
