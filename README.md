@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Hi there 👋
 
-[![](https://img.shields.io/badge/CSDN-@raelum-red.svg?style=plastic)](https://blog.csdn.net/raelum/)
+
 
 
 - 🔭 I have graduated from NCEPU.
