@@ -24,14 +24,9 @@ Here are some ideas to get you started:
 - 🔭 I have graduated from NCEPU.
 - 🔭 Now, I'm a M.S. student at *BUAA, Beijing*.
 - 🌱 I'm interested in Natural Language Processing, Recommender Systems, etc.
-- 📫 How to reach me: [segeral@aliyun.com](#).
+- 📫 How to reach me: [segeral@163.com](#).
 
-## GitHub Stats
 
-<div align="center" dir="auto">
-<img align="middle" src="https://github-readme-stats.vercel.app/api?username=segeral&show_icons=true&hide_title=false&include_all_commits=true&count_private=true&theme=merko" height="auto" width="45%"/>
-<img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=segeral&hide_title=false&theme=merko&&layout=compact" height="auto" width="45%"/>
-</div>
 
 
 ## My Skill Sets
