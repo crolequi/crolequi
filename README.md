@@ -1,24 +1,8 @@
-
-
-<!--
-**segeral/segeral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ## Hi there 👋
 
 [![](https://img.shields.io/badge/CSDN-@raelum-red.svg?style=plastic)](https://raelum.blog.csdn.net/?type=blog)
-
+![GitHub User's stars](https://img.shields.io/github/stars/ytchx1999?affiliations=OWNER&style=social)
+![GitHub followers](https://img.shields.io/github/followers/ytchx1999?style=social)
 
 - 🔭 I'm currently working at *BUAA, Beijing*.
 - 🌱 I'm interested in Natural Language Processing, Recommender Systems, etc.
