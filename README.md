@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 Now, I'm currently working at *BUAA, Beijing*.
+- 🔭 I'm currently working at *BUAA, Beijing*.
 - 🌱 I'm interested in Natural Language Processing, Recommender Systems, etc.
 - 📫 How to reach me: [segeral@163.com](#).
 
