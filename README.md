@@ -27,6 +27,6 @@
 
 <div align=center>
   
-![sonvier's github stats](https://github-readme-stats.vercel.app/api?username=sonvier&theme=radical&show_icons=true)
+![sonvier's github stats](https://github-readme-stats.vercel.app/api?username=sonvier&theme=nightowl&show_icons=true)
 
 </div>
