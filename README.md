@@ -23,3 +23,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" />
 </div>
 
+## Stats
+
+![ytchx1999's github stats](https://github-readme-stats.vercel.app/api?username=sonvier&theme=radical&show_icons=true)
