@@ -32,3 +32,5 @@
 
 </div>
 
+<div align="center"> <img align="center" src="https://activity-graph.herokuapp.com/graph?username=sonvier&theme=xcode" width="100%"/> </div>
+
