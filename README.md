@@ -24,13 +24,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" />
 </div>
 
-## Stats
-
-<div align=center>
-  
-![sonvier's github stats](https://github-readme-stats.vercel.app/api?username=crolequi&theme=nightowl&show_icons=true)
-
-</div>
 
 
 
