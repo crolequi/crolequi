@@ -5,7 +5,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/sonvier?style=social)
 ![visitor badge](https://visitor-badge.deta.dev/badge?page_id=sonvier.visitor-badge)
 
-<! - 🔭 I'm currently working at *BUAA, Beijing*. -->
+
 - 🌱 I'm interested in Natural Language Processing, Recommender Systems, etc.
 - 📫 How to reach me: [rgsvrwd@gmail.com](#).
 
