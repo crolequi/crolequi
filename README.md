@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- [![](https://img.shields.io/badge/CSDN-@péripatéticien-red.svg?style=plastic)](https://raelum.blog.csdn.net/?type=blog) -->
-![GitHub User's stars](https://img.shields.io/github/stars/sonvier?affiliations=OWNER&style=social)
-![GitHub followers](https://img.shields.io/github/followers/sonvier?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/crolequi?affiliations=OWNER&style=social)
+![GitHub followers](https://img.shields.io/github/followers/crolequi?style=social)
 
 
 
