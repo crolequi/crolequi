@@ -7,7 +7,6 @@
 
 
 - 🌱 I'm interested in Natural Language Processing, Recommender Systems, etc.
-- 📫 How to reach me: [rgsvrwd@gmail.com](#).
 
 
 
